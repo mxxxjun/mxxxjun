@@ -1,9 +1,8 @@
-### Hi there 👋
+### 안녕하세요 👋
 
-<!--
-**mxxxjun/mxxxjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
 
-Here are some ideas to get you started:
+### :octocat: 안녕하세요? 고양이입니다 🐱
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
